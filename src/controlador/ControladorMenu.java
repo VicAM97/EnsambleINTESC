@@ -85,6 +85,17 @@ public class ControladorMenu implements Initializable {
     
     @FXML
     private void mostrarArchivados() {
+    	try{
+    		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+    		DocumentBuilder builder =  factory.newDocumentBuilder();
+    		
+    		Document documento = builder.parse(new File("/utileria/archivados.xml"));
+    		
+    		
+    		
+    	}catch (ParserConfigurationException | SAXException | IOException ex) {
+    		Logger.getLogger(ControladorMenu.class.getName(), null).log(Level.SEVERE, null, ex);
+    	}
         
     }
     
