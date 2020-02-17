@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<archivados>
+    <archivado>
+        <folio>2</folio>
+        <fecha>2020-02-14</fecha>
+        <cliente>Victor Manuel</cliente>
+        <telefono>7441000000</telefono>
+        <correo>vicam97@gmail.com</correo>
+        <descripcion>some descripcion</descripcion>
+    </archivado>
+</archivados>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pendientes>
+    <pendiente>
+        <folio>1</folio>
+        <fecha>2020-02-14</fecha>
+        <cliente>Ricardo Manuel</cliente>
+        <telefono>7441799268</telefono>
+        <correo>ricardomgd1997@gmail.com</correo>
+        <descripcion>some descripcion</descripcion>
+    </pendiente>
+</pendientes>
